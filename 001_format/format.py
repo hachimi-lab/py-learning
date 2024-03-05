@@ -1,3 +1,7 @@
+"""
+format string by using %, format, format_map, f-string
+"""
+
 age = 20
 name = 'Swaroop'
 
